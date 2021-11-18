@@ -51,6 +51,6 @@ Download the edge images we have already generated via pre-trained RCF model. (c
 
 ### 5. Obtain our result
 
-Download the pre-trained RCAC from [link](coming soon)
+Download the pre-trained RCAC from (coming soon)
 
 bash run.sh
