@@ -36,10 +36,10 @@ Download the pre-trained RCAC from (coming soon)
 
 ## 5. File system
 - FSC-147
-   -  edges_gen_by_RCF
-     - 第二个嵌套列表项
-   -  images_384_VarV2
-   -  gt_density_map_adaptive_384_VarV2
+   - images_384_VarV2
+   - gt_density_map_adaptive_384_VarV2
+
+- edges_gen_by_RCF
      
 
 ## command
