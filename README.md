@@ -36,16 +36,16 @@ Download the pre-trained RCAC from (coming soon)
 
 ## 5. File system
 - dataroot_FSC_147
- - images_384_VarV2
+  - images_384_VarV2
   - 2.jpg
   - ...
- - gt_density_map_adaptive_384_VarV2
+  - gt_density_map_adaptive_384_VarV2
   - 2.npy
   - ...
 
 - dataroot_FSC_147_edge
- - 2.jpg
- - ...
+  - 2.jpg
+  - ...
      
 ## command
 ```
