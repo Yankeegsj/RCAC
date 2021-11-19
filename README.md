@@ -35,6 +35,7 @@ Download the edge images we have already generated via pre-trained RCF model. [l
 Download the pre-trained RCAC from (coming soon)
 
 ## 5. File system
+```
 - dataroot_FSC_147
   - images_384_VarV2
     - 2.jpg
@@ -46,7 +47,7 @@ Download the pre-trained RCAC from (coming soon)
 - dataroot_FSC_147_edge
   - 2.jpg
   - ...
-     
+``` 
 ## command
 ```
 python ./code/test.py model=RCAC_augnum0_test comment=analysis_times_RCAC_aug0 \
