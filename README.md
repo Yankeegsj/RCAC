@@ -28,7 +28,7 @@ Use the pre-trained RCF model from [link](https://github.com/meteorshowers/RCF-p
 
 or 
 
-Download the edge images we have already generated via pre-trained RCF model. [link]()
+Download the edge images we have already generated via pre-trained RCF model. [link](https://pan.baidu.com/s/1ew_milVGBIDLOiDdX4RmRg ) password:1234
 
 ## 4. Obtain our result
 
