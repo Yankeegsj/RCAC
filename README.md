@@ -35,13 +35,18 @@ Download the edge images we have already generated via pre-trained RCF model. [l
 Download the pre-trained RCAC from (coming soon)
 
 ## 5. File system
-- FSC-147
-  - images_384_VarV2
-  - gt_density_map_adaptive_384_VarV2
+- dataroot_FSC_147
+ - images_384_VarV2
+  - 2.jpg
+  - ...
+ - gt_density_map_adaptive_384_VarV2
+  - 2.npy
+  - ...
 
-- edges_gen_by_RCF
+- dataroot_FSC_147_edge
+ - 2.jpg
+ - ...
      
-
 ## command
 ```
 python ./code/test.py model=RCAC_augnum0_test comment=analysis_times_RCAC_aug0 \
