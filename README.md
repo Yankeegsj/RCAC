@@ -1,8 +1,6 @@
 # Robust Class-Agnostic Counter (RCAC)
 
-## 1. Install anaconda
-
-## 2. Install packages
+## 1. Install packages
 
 ```
 conda create --name BLA 
@@ -20,11 +18,11 @@ pip install PyWavelets==1.1.1 decorator==4.4.2 imageio==2.9.0 networkx==2.5 scik
 pip install boxx==0.9.2.28 fn==0.4.3 pprofile==2.0.5 py-heat==0.0.6 pyopengl==3.1.5 seaborn==0.11.0 snakeviz==2.1.0 tornado==6.1
 pip install cached-property==1.5.2 h5py==3.1.0
 ```
-## 3. Dataset download
+## 2. Dataset download
 
 download FSC-147 according to [link](https://github.com/cvlab-stonybrook/LearningToCountEverything) 
 
-## 4. Generate Edge
+## 3. Generate Edge
 
 Use the pre-trained RCF model from [link](https://github.com/meteorshowers/RCF-pytorch) and generate edge images 
 
@@ -32,9 +30,11 @@ or
 
 Download the edge images we have already generated via pre-trained RCF model. [link]()
 
-### 5. Obtain our result
+## 4. Obtain our result
 
 Download the pre-trained RCAC from (coming soon)
+
+## 5. File system
 
 
 ## command
