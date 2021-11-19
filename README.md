@@ -43,7 +43,6 @@ Download the pre-trained RCAC from (coming soon)
   - gt_density_map_adaptive_384_VarV2
     - 2.npy
     - ...
-
 - dataroot_FSC_147_edge
   - 2.jpg
   - ...
