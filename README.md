@@ -3,8 +3,8 @@
 ## 1. Install packages
 
 ```
-conda create --name BLA 
-source activate BLA
+conda create --name RCAC
+source activate RCAC
 conda install pip
 conda install python==3.6.6
 pip install torch-1.0.0-cp36-cp36m-linux_x86_64.whl
