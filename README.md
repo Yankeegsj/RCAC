@@ -42,7 +42,7 @@ Download the edge images we have already generated via pre-trained RCF model. [l
 Download the pre-trained RCAC from (coming soon)
 
 
-command
+# command
 ```
 python ./code/test.py model=RCAC_augnum0_test comment=analysis_times_RCAC_aug0 \
 dataroot_FSC_147=/root/dataset/FSC-147 dataroot_FSC_147_edge=/root/dataset/FSC-147/edges_gen_by_RCF \
