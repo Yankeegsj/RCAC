@@ -36,8 +36,8 @@ Download the pre-trained RCAC from (coming soon)
 
 ## 5. File system
 - FSC-147
-   - images_384_VarV2
-   - gt_density_map_adaptive_384_VarV2
+  - images_384_VarV2
+  - gt_density_map_adaptive_384_VarV2
 
 - edges_gen_by_RCF
      
@@ -45,7 +45,7 @@ Download the pre-trained RCAC from (coming soon)
 ## command
 ```
 python ./code/test.py model=RCAC_augnum0_test comment=analysis_times_RCAC_aug0 \
-**dataroot_FSC_147=/root/dataset/FSC-147** **dataroot_FSC_147_edge=/root/dataset/FSC-147/edges_gen_by_RCF** \
+dataroot_FSC_147=/root/dataset/FSC-147 dataroot_FSC_147_edge=/root/dataset/FSC-147/edges_gen_by_RCF** \
 dataset=FSC_147_edge_test train_split=[train] test_split=[val] \
 num_workers=16 train_batch_size=1 test_batch_size=1 \
 model_for_load=/root/RCAC/RCAC_20.94.pth \
