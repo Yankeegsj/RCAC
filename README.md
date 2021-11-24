@@ -3,7 +3,7 @@
 ## 1. Install packages
 
 ```
-conda create --name RCAC
+conda create --name RCAC 
 source activate RCAC
 conda install pip
 conda install python==3.6.6
@@ -28,13 +28,9 @@ Use the pre-trained RCF model from [link](https://github.com/meteorshowers/RCF-p
 
 or 
 
-Download the edge images we have already generated via pre-trained RCF model. [link](https://pan.baidu.com/s/1ew_milVGBIDLOiDdX4RmRg ) password:1234
+Download the edge images we have already generated via pre-trained RCF model. [link](https://1drv.ms/u/s!AuOdja6S-tY7gtEGY-qFcrLLvQUpRQ?e=rVUwM8)
 
-## 4. Obtain our result
-
-Download the pre-trained RCAC from (coming soon)
-
-## 5. File system
+## 4. File system
 ```
 - dataroot_FSC_147
   - images_384_VarV2
