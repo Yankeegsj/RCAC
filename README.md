@@ -1,4 +1,4 @@
-# Robust Class-Agnostic Counter (RCAC)
+# Robust Class-Agnostic Counter (RCAC) ECCV2022
 
 ## 1. Install packages
 
