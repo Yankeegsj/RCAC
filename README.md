@@ -18,9 +18,11 @@ pip install PyWavelets==1.1.1 decorator==4.4.2 imageio==2.9.0 networkx==2.5 scik
 pip install boxx==0.9.2.28 fn==0.4.3 pprofile==2.0.5 py-heat==0.0.6 pyopengl==3.1.5 seaborn==0.11.0 snakeviz==2.1.0 tornado==6.1
 pip install cached-property==1.5.2 h5py==3.1.0
 ```
-## 2. Dataset download
+## 2. Dataset download and model
 
 download FSC-147 according to [link](https://github.com/cvlab-stonybrook/LearningToCountEverything) 
+
+download model [link](https://pan.baidu.com/s/1xlZ8ni6_N-csLO4cBjKLgQ?pwd=xtva)  password:xtva
 
 ## 3. Generate Edge
 
@@ -28,7 +30,7 @@ Use the pre-trained RCF model from [link](https://github.com/meteorshowers/RCF-p
 
 or 
 
-Download the edge images we have already generated via pre-trained RCF model. [link](https://1drv.ms/u/s!AuOdja6S-tY7gtEGY-qFcrLLvQUpRQ?e=rVUwM8)
+Download the edge images we have already generated via pre-trained RCF model. [link](https://pan.baidu.com/s/1EXJqcKh8W8GF3zyGOYbE-Q?pwd=k13v) password:k13v
 
 ## 4. File system
 ```
