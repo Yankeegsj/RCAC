@@ -7,6 +7,7 @@ import cv2
 import warnings
 import numpy as np
 import torch
+
 class global_variables(object):
     num_gpu=1
     local_rank=0
@@ -37,8 +38,8 @@ class global_variables(object):
     gt_factor=1.0
     num_box=3
 
-    num_workers=8
-    train_batch_size   = 8
+    num_workers=16
+    train_batch_size   = 1
     test_batch_size   = 1
 
     #model
@@ -52,8 +53,8 @@ class global_variables(object):
     # vision
     vision_runtime=True
     save_start_epochs=0
-    vision_each_epoch=10
-    vision_frequency=10
+    vision_each_epoch=0
+    vision_frequency=10   
 
     def __init__(self, **kwself):
         for k, v in kwself.items():
